@@ -12,8 +12,8 @@ This project works fine on iOS and Android.
 Clone this repository :
 
 ```
-git clone https://github.com/stevenpersia/tinder-expo.git
-cd tinder-expo
+git clone https://github.com/hsinlinghu1101/React_Native_tic-tac-toe.git
+cd React_Native_tic-tac-toe
 ```
 
 Install packages :
