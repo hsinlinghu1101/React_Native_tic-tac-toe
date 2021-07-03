@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-![Screenshot 2021-07-02 at 5 01 19 PM](https://user-images.githubusercontent.com/47201201/124340501-80de4a00-db6a-11eb-876d-35d8512a9cf4.png)
+![Screenshot 2021-07-02 at 5 01 19 PM](https://user-images.githubusercontent.com/47201201/124340605-314c4e00-db6b-11eb-97a0-c0fca627e982.png)
 
 ## Installation and usage
 
