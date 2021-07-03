@@ -1,5 +1,7 @@
 # Tic-Tac-Toe Game
 
+![Screenshot 2021-07-02 at 5 01 19 PM](https://user-images.githubusercontent.com/47201201/124340501-80de4a00-db6a-11eb-876d-35d8512a9cf4.png)
+
 ## Installation and usage
 
 Be sure, you have installed all dependencies and applications to run Expo project on your computer : [Getting Started with Expo](https://docs.expo.io/get-started/installation/).
